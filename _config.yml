@@ -1,13 +1,20 @@
 # basic
-title: th是个小屁孩的技术小屋
+title: believe
 subtitle: 笔直向前，说到做到
-favicon: /favicon.ico
+favicon: /images/favicon.ico
 
 #logo
-logo: http://oct3pmpde.bkt.clouddn.com/timg.jpg
+logo: /images/logo.jpg
 
-# duoshuo-comment
-duoshuo_shortname: 
+# >>> Conments 评论系统 <<<
+# duoshuo-comment  多说
+duoshuo_shortname:
+#disqus_shortname   disqus
+disqus_shortname:
+#wangyi_shortname  网易
+wangyi_shortname:
+#changyan_shortname  畅言
+changyan_shortname: true
 
 highlight:
   enable: true
@@ -35,14 +42,14 @@ nav:
   - id: 留言
     url: guestbook
     icon: edit
-  - id: RSS
-    url: atom.xml
-    icon: send
+ # - id: RSS
+  #  url: atom.xml
+   # icon: send
 
 # cover
-cover_img: http://oct3pmpde.bkt.clouddn.com/back.jpg
-cover_avator: http://oct3pmpde.bkt.clouddn.com/avator.jpg
-cover_info: 欢迎来到我的博客</br>by:th是个小屁孩
+cover_img: http://img.elife.com/forum/201502/04/163739c7icmreird0c9a9m.jpg
+cover_avator: /images/Avatar.jpg
+cover_info: 欢迎来到我的博客</br>by:迷途羔羊
 
 # photo(four pictures every line)
 photo:
@@ -81,21 +88,39 @@ photo:
 
 # project #
 project:
-  - title: demo1
-    url: https://github.com/th720309/hexo-theme-believe
-    sub: 第一个demo
-    language: css
-  - title: demo2
-    url: https://github.com/th720309/hexo-theme-believe
-    sub: 第二个demo
-    language: css
-  - title: demo3
-    url: https://github.com/th720309/hexo-theme-believe
-    sub: 第三个demo
-    language: css
+  - title: 金石金融研究院
+    url: http://blog.xierongsheng.science/
+    sub: 刚开始从事web前端时所做的网页
+    language: 网站
+  - title: 我的博客
+    url: http://xierongsheng.science/
+    sub: 采用hexo-theme-believe主题的博客
+    language: blog
+  - title: 营销活动页1
+    url: https://x447618716.github.io/special7/
+    sub: 刚开始从事web前端时所做的网页
+    language: 活动1
+  - title: 营销活动页2
+    url: https://x447618716.github.io/special6/
+    sub: 刚开始从事web前端时所做的网页
+    language: 手机页
+  - title: 营销活动页3
+    url: https://x447618716.github.io/special1/
+    sub: 刚开始从事web前端时所做的网页
+    language: 活动页3
+  - title: 营销活动页4
+    url: https://x447618716.github.io/special4/
+    sub: 刚开始从事web前端时所做的网页
+    language: 活动页4
+  - title: 根据身份证省市区三联
+    url: https://x447618716.github.io/Triad_assembly/
+    sub: 身份证省市区三联
+    language: html
 
-# baiduanalysis
-baiduanalysis: 
+# 百度、谷歌站长验证。填写 HTML 标签 content
+# Fill in Google Analytics tracking ID, #e.g. UA-XXXXX-X, or Baidu Analytics hash key
+google_analytics: UA-102262786-1
+baidu_analytics: 1d809c37c7b29de1973f335c44cb57b0
 
 # hexo-renderer-sass
 node_sass:
@@ -108,9 +133,9 @@ default_post_title: Untitled
 
 # social
 social:
-  github: https://github.com/th720309
-  weibo: http://weibo.com/th0527
-  twitter: https://twitter.com
-  facebook: https://facebook.com
+  github: https://github.com/x447618716
+  #weibo: http://weibo.com/th0527
+  #twitter: https://twitter.com
+  #facebook: https://facebook.com
 
-footer: th是个小屁孩的技术小屋
+footer: 迷途羔羊的技术小屋

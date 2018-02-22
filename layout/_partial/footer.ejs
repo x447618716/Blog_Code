@@ -1,4 +1,15 @@
 <!-- Footer -->
+<%- js('js/app.js') %>
+<!--<div id="Thplayer"></div>-->
+<!--<script type="application/javascript" src="/blog/js/thplayer.min.js"></script>-->
+<!--<script>-->
+    <!--$("#Thplayer").thplayer({-->
+        <!--title: "蓝莲花",-->
+        <!--author: "许巍",-->
+        <!--cover: "http://p3.music.126.net/C6txAWMGlVmAcAD37RVutQ==/122045790684028.jpg",-->
+        <!--music: "http://p2.music.126.net/K7TQv1uggESpMwlYo2hvlQ==/7724069186226916.mp3"-->
+    <!--});-->
+<!--</script>-->
 <footer class="site-info">
   <p>
     <span><%- config.title %> &copy; <%= (new Date()).getFullYear() %></span>
@@ -7,6 +18,7 @@
       <span><%- config.footer || theme.footer %></span>
     <% } %>
   </p>
+  <!-- 不蒜子网页计数 -->
   <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   本站总访问量<span id="busuanzi_value_site_pv"></span>次
   本站访客数<span id="busuanzi_value_site_uv"></span>人次

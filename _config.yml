@@ -1,10 +1,10 @@
 # basic
 title: believe
 subtitle: 笔直向前，说到做到
-favicon: /images/favicon.ico
+favicon: /images/Other/favicon.ico
 
 #logo
-logo: /images/logo.jpg
+logo: /images/Other/logo.jpg
 
 # >>> Conments 评论系统 <<<
 # duoshuo-comment  多说
@@ -48,43 +48,35 @@ nav:
 
 # cover
 cover_img: http://img.elife.com/forum/201502/04/163739c7icmreird0c9a9m.jpg
-cover_avator: /images/Avatar.jpg
+cover_avator: /images/Other/Avatar.jpg
 cover_info: 欢迎来到我的博客</br>by:迷途羔羊
 
 # photo(four pictures every line)
 photo:
-  - title: 上海·外滩
-    url: http://oct3pmpde.bkt.clouddn.com/QQ%E5%9B%BE%E7%89%8720160911111234_Snapseed_meitu_3.jpg
-  - title: 上海·城隍庙
-    url: http://oct3pmpde.bkt.clouddn.com/QQ%E5%9B%BE%E7%89%8720160911105703_Snapseed_meitu_4.jpg
-  - title: 上海·外滩
-    url: http://oct3pmpde.bkt.clouddn.com/QQ%E5%9B%BE%E7%89%8720160911112212_Snapseed_meitu_2.jpg
-  - title: 上海·城隍庙
-    url: http://oct3pmpde.bkt.clouddn.com/QQ%E5%9B%BE%E7%89%8720160911105720_Snapseed_meitu_1.jpg
-  - title: 谢霆锋
-    url: http://oct3pmpde.bkt.clouddn.com/23432.jpg
-  - title: 朱茵
-    url: http://oct3pmpde.bkt.clouddn.com/278f3ec3472f45aca025d6b7f1048ce8fda727217c64-tJA5fE_fw658_meitu_2.jpg
-  - title: 萌
-    url: http://oct3pmpde.bkt.clouddn.com/93a3663ce5a120df2187d88dee6b611e4d6bb0fd890e-Ayk04S_fw658_meitu_5.jpg
-  - title: 谢霆锋
-    url: http://oct3pmpde.bkt.clouddn.com/234.jpg
-  - title: 新垣结衣
-    url: http://oct3pmpde.bkt.clouddn.com/5406bfb524dedd8d8d583f851de02a6f954b8cb63a313-KkBPG0_fw658_meitu_5.jpg
-  - title: 萌
-    url: http://oct3pmpde.bkt.clouddn.com/img3_meitu_8.jpg
-  - title: 萌
-    url: http://oct3pmpde.bkt.clouddn.com/1be693d8c060f36425ff18c2c6bd74297e124115481ef-ORfbts_fw658_meitu_4.jpg
-  - title: 新垣结衣
-    url: http://oct3pmpde.bkt.clouddn.com/efffa4c7e22d967269410e4ee5a8a22f963840312e32c-0Xv1LH_fw658_meitu_6.jpg
-  - title: 旅行
-    url: http://oct3pmpde.bkt.clouddn.com/9a75825d20a21a59472d7f17f758682c82fcadd025169-D9G2Hv_fw658_meitu_11.jpg
-  - title: 萌
-    url: http://oct3pmpde.bkt.clouddn.com/15307563afb5f071d66161bf7cdbdb496ea5674814c5f-GKX9ys_fw658_meitu_3.jpg
-  - title: 无脸男
-    url: http://oct3pmpde.bkt.clouddn.com/ad01a45561cee108d12f25f09930c80f2f2a91238510-Ys0wNX_fw658_meitu_1.jpg
-  - title: PC
-    url: http://oct3pmpde.bkt.clouddn.com/61dd6485c9202285fc763bda7e79dbe389883401bed7b-wspi2M_fw658_meitu_7.jpg
+  - title: 海贼王
+    url: ../images/Love/311664.jpg
+  - title: 火影忍者
+    url: ../images/Love/292099.jpg
+  - title: 秦时明月
+    url: ../images/Love/297857.jpg
+  - title: 名侦探柯南
+    url: ../images/Love/287451.jpg
+  - title: 罪恶王冠
+    url: ../images/Love/309983.jpg
+  - title: 妖精的尾巴
+    url: ../images/Love/261381.jpg
+  - title: 进军的巨人
+    url: ../images/Love/245986.jpg
+  - title: 夏目友人帐
+    url: ../images/Love/189811.png
+  - title: 路人女主养成计划
+    url: ../images/Love/289701.jpg
+  - title: 超神学院
+    url: ../images/Love/314693.jpg
+  - title: 刀剑神域
+    url: ../images/Love/306093.png
+  - title: 魁拔
+    url: ../images/Love/290488.jpg
 
 # project #
 project:
